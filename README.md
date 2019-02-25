@@ -1,2 +1,2 @@
 # KungFuBlue
-Game where you fight enemies
+Password Managing app for Android
